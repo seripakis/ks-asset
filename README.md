@@ -1,2 +1,2 @@
 # ks-asset
-commit
+Bahan asset KAI STUDIO
